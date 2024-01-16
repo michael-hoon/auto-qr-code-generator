@@ -26,4 +26,4 @@ for index, row in df.iterrows():
     img.save(f'qr_codes/{index}.png')  # replace 'qr_codes' with your folder name
 
 
-# test comment and insertion with nvim 2
+# test comment and insertion with nvim
